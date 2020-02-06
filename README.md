@@ -1,6 +1,6 @@
 # OutStation
-SDL mini project. A car rental app using Android, Nodejs and MySql. OutStation allows it's users not only to rent cars but also rent thier cars out to other users;
-All you have to do to rent out a car is fill somebasic details and location of car and that's iit the car can then be rented by others. OutStation also provides live tracking of the staate of transaction of car to the tenant , owner and driver of the car which is assigned by the app.
+SDL mini-project. A car rental app using Android, Nodejs and MySql. OutStation allows it's users not only to rent cars but also rent their cars out to other users;
+All you have to do to rent out a car is fill some basic details and the location of the car and that's it the car can then be rented by others. OutStation also provides live tracking of the state of the transaction of the car to the tenant, owner and driver of the car which is assigned by the app.
 
 
 # Screenshots
@@ -12,7 +12,7 @@ All you have to do to rent out a car is fill somebasic details and location of c
 ### Prerequisites
 
 What things you need to install the software and how to install them
-nodejs
+NodeJS
 Android Studio 
 Mysql Server 8.0
 
@@ -23,7 +23,7 @@ Mysql Server 8.0
 ```
 sudo apt install node
 ```
-1)to install mysql
+1)to install MySQL
 
 ```
 sudo apt install mysql
@@ -37,8 +37,8 @@ End with an example of getting some data out of the system or using it for a lit
 cd nodeserver
 node server.js
 ```
-Install apps in your mobile.
-Set the ip adress while loging in or registering .TO check ip of your machine
+Install apps on your mobile.
+Set the IP address while logging in or registering.TO check IP of your machine
 #### Windows
 ```
 ipconfig
